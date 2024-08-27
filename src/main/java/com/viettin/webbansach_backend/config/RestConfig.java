@@ -1,4 +1,4 @@
-package com.viettin.webbansach_backend;
+package com.viettin.webbansach_backend.config;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.metamodel.Type;

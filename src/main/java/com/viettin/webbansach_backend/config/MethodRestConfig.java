@@ -1,4 +1,4 @@
-package com.viettin.webbansach_backend.repository;
+package com.viettin.webbansach_backend.config;
 
 import com.viettin.webbansach_backend.entity.Category;
 import jakarta.persistence.EntityManager;
